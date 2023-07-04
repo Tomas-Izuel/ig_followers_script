@@ -14,3 +14,5 @@ Este codigo no es de mi autoria, pero fue refactorizado y comentado por mi para 
     ![Alt text](readme_images/image-2.png)
 
 Y listo, nos va a listar los usuarios
+
+## Si tienes algun problema al usar este codigo puedes ir a la pestaña de arriba "Issues" y comentarme el problema para que le de solucion
