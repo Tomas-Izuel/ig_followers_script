@@ -2,6 +2,9 @@
 
 Este codigo no es de mi autoria, pero fue refactorizado y comentado por mi para validar su seguridad y legibilidad.
 
+## Diferencias entre original.js y refactorized.js
+Son el mismo codigo, solo que fue reescrito con nombres de variables claros, comentarios al lado de funciones que puedan dar lugar a confusion y una estructura mas legible. Ambos codigos pueden utilizarse
+
 ## ¿Como usar?
 
 - Ve a tu perfil de Instagram (Debe ser obligatoriamente en PC)
